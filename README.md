@@ -23,13 +23,13 @@
           <tr>
             <td>2300030421</td>
             <td>Hemanth sai vinay Meka</td>
-            <td>CSE </td>
+            <td>CSE</td>
             <td>Hello zeroone!</td>
         </tr>
         <tr>
             <td>2300031155</td>
             <td>sSaimanikanta Gajavalli</td>
-            <td>CSE </td>
+            <td>ECE</td>
             <td>Hello zeroone!</td>
         </tr>
 </table>
